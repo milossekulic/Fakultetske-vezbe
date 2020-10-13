@@ -1,0 +1,22 @@
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\bin\Debug\Drugi cas WinForm.exe.config
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\bin\Debug\Drugi cas WinForm.exe
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\bin\Debug\Drugi cas WinForm.pdb
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.csprojAssemblyReference.cache
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi_cas_WinForm.Form1.resources
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi_cas_WinForm.Properties.Resources.resources
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.csproj.GenerateResource.cache
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.csproj.CoreCompileInputs.cache
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.exe
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.pdb
+D:\Documents\Files\Projects\C#\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi_cas_WinForm.FormLog.resources
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\bin\Debug\Drugi cas WinForm.exe.config
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\bin\Debug\Drugi cas WinForm.exe
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\bin\Debug\Drugi cas WinForm.pdb
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.csprojAssemblyReference.cache
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi_cas_WinForm.Form1.resources
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi_cas_WinForm.FormLog.resources
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi_cas_WinForm.Properties.Resources.resources
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.csproj.GenerateResource.cache
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.exe
+C:\Users\Sekulic\Desktop\Drugi cas WinForm\Drugi cas WinForm\Drugi cas WinForm\obj\Debug\Drugi cas WinForm.pdb

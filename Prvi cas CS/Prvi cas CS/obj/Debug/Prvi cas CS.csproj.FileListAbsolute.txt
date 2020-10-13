@@ -1,0 +1,21 @@
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\bin\Debug\Prvi cas CS.exe.config
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\bin\Debug\Prvi cas CS.exe
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\bin\Debug\Prvi cas CS.pdb
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.csprojAssemblyReference.cache
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi_cas_CS.Form1.resources
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi_cas_CS.Properties.Resources.resources
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.csproj.GenerateResource.cache
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.csproj.CoreCompileInputs.cache
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.exe
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.pdb
+D:\Documents\Files\Projects\C#\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi_cas_CS.Form2.resources
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\bin\Debug\Prvi cas CS.exe.config
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\bin\Debug\Prvi cas CS.exe
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\bin\Debug\Prvi cas CS.pdb
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.csprojAssemblyReference.cache
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi_cas_CS.Form1.resources
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi_cas_CS.Properties.Resources.resources
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.csproj.GenerateResource.cache
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.csproj.CoreCompileInputs.cache
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.exe
+C:\Users\Sekulic\Desktop\Prvi cas CS\Prvi cas CS\Prvi cas CS\obj\Debug\Prvi cas CS.pdb
